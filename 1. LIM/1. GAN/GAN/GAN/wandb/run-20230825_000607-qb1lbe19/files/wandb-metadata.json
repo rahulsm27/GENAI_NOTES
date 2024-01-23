@@ -1,0 +1,41 @@
+{
+    "os": "macOS-13.4.1-x86_64-i386-64bit",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-08-24T18:36:08.156798",
+    "startedAt": "2023-08-24T18:36:07.107608",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/rahulsm27/GAN.git",
+        "commit": "4e9749685520629f17991fbd5e85c2e16569077d"
+    },
+    "email": "rahulsm.27@gmail.com",
+    "root": "/Users/rahulmahajan/Desktop/Projects/GAN/GAN",
+    "host": "Rahuls-MacBook-Air.local",
+    "username": "rahulmahajan",
+    "executable": "/usr/local/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1100,
+        "min": 1100,
+        "max": 1100
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1100,
+            "min": 1100,
+            "max": 1100
+        }
+    ],
+    "disk": {
+        "total": 465.62699127197266,
+        "used": 8.439384460449219
+    },
+    "memory": {
+        "total": 8.0
+    }
+}
